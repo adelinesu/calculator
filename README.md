@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/adeline-as400/Enabling%20Continuous%20Integration%20with%20Azure%20Pipelines/_apis/build/status/adelinesu.calculator%20(1)?branchName=refs%2Fpull%2F2%2Fmerge)](https://dev.azure.com/adeline-as400/Enabling%20Continuous%20Integration%20with%20Azure%20Pipelines/_build/latest?definitionId=12&branchName=refs%2Fpull%2F2%2Fmerge)
